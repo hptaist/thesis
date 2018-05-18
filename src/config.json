@@ -1,0 +1,24 @@
+{
+  "username": "root",
+  "password": "root",
+  "topic": "test",
+  "key": "xiaomi",
+  "api_url": "http://api.my-domain.io/v1/collector",
+  "stats_url": "http://api.my-domain.io/v1/collector",
+  "backup_url": "http://requestb.in/1n69hks1",
+  "mac": "28-6C-07-50-7B-DA",
+  "mqtt_host": "192.168.1.106",
+  "token": "75199254-5ab0-4fce-a8fc-e16b1978b103",
+  "port": 8883,
+  "sleep": 60,
+  "monitor": 15,
+  "scan": 1,
+  "survey": 0,
+  "tls": true,
+  "cacrt": "ca.crt",
+  "no-ping": 0,
+  "no-cache": 1,
+  "ping-interval": 10,
+  "rest": 0
+}
+
