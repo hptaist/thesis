@@ -427,7 +427,7 @@ void fetch_ca(char *buff) {
 void install_ca() {
 
   CURL *curl;
-  char *url = "http://192.168.1.106:8888/ca.crt";
+  char *url = "http://192.168.1.116:8888/ca.crt";
 
   curl = curl_easy_init();
   if (!curl)
